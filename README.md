@@ -1,4 +1,4 @@
 # Kattis-solutions
-Some of my head hammering on kattis problems.
+Some of my solutions to kattis problems.
 
 Website - https://open.kattis.com/problems
