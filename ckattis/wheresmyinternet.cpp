@@ -1,6 +1,8 @@
 
 #include <iostream>
 int parents [200001];
+
+//union is a defined term apparently so can't use that
 void unin(int a, int b);
 int find(int a);
 bool something = false;
